@@ -1,7 +1,6 @@
 # Iris Flower Classification 
 
-## What This Project Does
-This project predicts the species of an iris flower using machine learning.  
+## What This Project Does 
 The model takes flower measurements like petal length, petal width, sepal length, and sepal width, and predicts whether the flower is:
 - Setosa
 - Versicolor
